@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch Auto Opener",
+  "description": "Checks for your favorite twitch streamer to go live and opens their stream when they do.",
+  "version": "0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "twitch_auto_opener.png"
+  }
+}
